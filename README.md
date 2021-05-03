@@ -1,9 +1,9 @@
 # ProcessID
-##Simple and horribly written PID displaying program.
+## Simple and horribly written PID displaying program.
 
 Lots of redundancy, but it works. 3 more hours and it might look pretty good.
 
-##Building and executing commands:
+## Building and executing commands:
 
 1.  mkdir build
 2.  cmake -S . -B build
@@ -12,4 +12,4 @@ Lots of redundancy, but it works. 3 more hours and it might look pretty good.
 5.  ./ProcessID
 
 
-Build on Raspbian 10 (Buster), GNU/Linux.
+### Build on Raspbian 10 (Buster), GNU/Linux.
